@@ -45,3 +45,11 @@ GitHub was used as a central repository for the Clinic Management System group p
 ## Project Structure
 
 The system is organised into separate classes based on their responsibilities. The main classes are Person, Patient, Doctor, Administrator, Appointment, Treatment and Clinic. The Person class provides common information for Patient, Doctor and Administrator. The Clinic class manages the main collections used by the system.
+## Team Members
+
+The Clinic Management System is being developed as a group project by four members. The GitHub repository is shared with the group members so that each member can contribute to the project.
+
+- Aayushma — mit250890-web
+- Tanishka — tanishkasethi278-boop
+- Riya — Vriya9944-lgtm
+- Vani — vaniraveendran18-dot
