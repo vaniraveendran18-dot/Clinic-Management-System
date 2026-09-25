@@ -42,3 +42,6 @@ The application follows the MVC approach by separating different responsibilitie
 ## GitHub Collaboration
 
 GitHub was used as a central repository for the Clinic Management System group project. It allowed the four group members to work on the same project and keep track of changes made during development. The repository was used to store project files and maintain a history of updates through commits. Clear commit messages were used to identify the work completed at different stages of the project.
+## Project Structure
+
+The system is organised into separate classes based on their responsibilities. The main classes are Person, Patient, Doctor, Administrator, Appointment, Treatment and Clinic. The Person class provides common information for Patient, Doctor and Administrator. The Clinic class manages the main collections used by the system.
