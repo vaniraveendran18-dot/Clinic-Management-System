@@ -39,3 +39,6 @@ Dependency Inversion Principle (DIP): The system should avoid unnecessary depend
 ### Model-View-Controller (MVC)
 
 The application follows the MVC approach by separating different responsibilities. The Model contains classes such as Patient, Doctor, Appointment, Treatment and Clinic. The View represents the Java Swing screens used by users. The Controller handles user actions, input validation, navigation and communication between the interface and the model. This separation helps organise the application and makes it easier to maintain and test.
+## GitHub Collaboration
+
+GitHub was used as a central repository for the Clinic Management System group project. It allowed the four group members to work on the same project and keep track of changes made during development. The repository was used to store project files and maintain a history of updates through commits. Clear commit messages were used to identify the work completed at different stages of the project.
